@@ -1,7 +1,7 @@
 # FairPriceDecisor 🚛📈
 
 > **Agricultural Logistics Optimization & Fair Price Calculation System**  
-> *NIT Trichy Hackathon Winner - June 2023*
+> *NIT Trichy Hackathon - June 2023*
 
 ## 🎯 Overview
 
@@ -155,10 +155,10 @@ POST /api/optimize-route
 Content-Type: application/json
 
 {
-  "warehouses": [...],
-  "demand_zones": [...],
-  "vehicle_fleet": [...],
-  "constraints": {...}
+  "warehouses": [],
+  "demand_zones": [],
+  "vehicle_fleet": [],
+  "constraints": {}
 }
 ```
 
@@ -177,7 +177,7 @@ Parameters:
 GET /api/track-delivery/{delivery_id}
 Response: {
   "status": "in_transit",
-  "location": {...},
+  "location": {},
   "eta": "2023-06-15T14:30:00Z"
 }
 ```
