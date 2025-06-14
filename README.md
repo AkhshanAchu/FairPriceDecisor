@@ -1,24 +1,24 @@
-# FairPriceDecisor 🚛📈
+# FairPriceDecisor 
 
 > **Agricultural Logistics Optimization & Fair Price Calculation System**  
 > *NIT Trichy Hackathon - June 2023*
 
-## 🎯 Overview
+##  Overview
 
 FairPriceDecisor is an intelligent logistics optimization platform designed to revolutionize agricultural supply chain management. The system provides better price calculation and transportation path optimization for agricultural units, delivering goods from multiple warehouses to demand zones with minimal cost and maximum efficiency.
 
-## ✨ Key Features
+##  Key Features
 
-- **🏭 Multi-Warehouse Management**: Optimized distribution from multiple agricultural warehouses
-- **📍 Demand Zone Mapping**: Intelligent mapping of supply sources to demand locations  
-- **💰 Fair Price Calculation**: Dynamic pricing algorithms ensuring fair market rates
-- **🛣️ Route Optimization**: Advanced pathfinding for cost-effective transportation
-- **📊 Real-time Demand Tracking**: Live monitoring of market demands and inventory levels
-- **🚚 Vehicle Routing Logic**: Smart vehicle allocation and route planning
-- **📈 Resource Utilization**: Maximum efficiency with minimal waste
-- **⚡ Dynamic Scheduling**: Real-time delivery schedule optimization
+- ** Multi-Warehouse Management**: Optimized distribution from multiple agricultural warehouses
+- ** Demand Zone Mapping**: Intelligent mapping of supply sources to demand locations  
+- ** Fair Price Calculation**: Dynamic pricing algorithms ensuring fair market rates
+- ** Route Optimization**: Advanced pathfinding for cost-effective transportation
+- ** Real-time Demand Tracking**: Live monitoring of market demands and inventory levels
+- ** Vehicle Routing Logic**: Smart vehicle allocation and route planning
+- ** Resource Utilization**: Maximum efficiency with minimal waste
+- ** Dynamic Scheduling**: Real-time delivery schedule optimization
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────────┐    ┌─────────────────────┐    ┌─────────────────────┐
@@ -31,7 +31,7 @@ FairPriceDecisor is an intelligent logistics optimization platform designed to r
 └─────────────────────┘    └─────────────────────┘    └─────────────────────┘
 ```
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 
 ### Core Algorithms
 - **Modified Dijkstra's Algorithm** - Enhanced shortest path optimization for multi-constraint routing
@@ -45,7 +45,7 @@ FairPriceDecisor is an intelligent logistics optimization platform designed to r
 - **Underutilization Prevention**: Smart algorithms to minimize empty vehicle trips
 - **Demand Prediction**: Historical data analysis for better resource planning
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -82,7 +82,7 @@ FairPriceDecisor is an intelligent logistics optimization platform designed to r
    python app.py
    ```
 
-## 💡 How It Works
+## How It Works
 
 ### 1. Data Input
 - **Warehouse Information**: Location, capacity, inventory levels
@@ -110,7 +110,7 @@ FairPriceDecisor is an intelligent logistics optimization platform designed to r
 - **Delivery Time**: 25% faster delivery completion
 - **Fuel Savings**: 30% reduction in fuel consumption
 
-## 🎯 Use Cases
+## Use Cases
 
 ### For Farmers
 - **Fair Price Discovery**: Get transparent pricing for agricultural products
@@ -128,7 +128,7 @@ FairPriceDecisor is an intelligent logistics optimization platform designed to r
 - **Reliable Delivery**: Optimized scheduling for consistent supply
 
 
-## 🛡️ System Benefits
+## System Benefits
 
 ### Economic Impact
 - **Reduced Transportation Costs**: Efficient routing saves fuel and time
@@ -145,7 +145,7 @@ FairPriceDecisor is an intelligent logistics optimization platform designed to r
 - **Food Security**: Efficient distribution ensures food availability
 - **Employment**: Job creation in logistics and transportation sectors
 
-## 📋 API Documentation
+## API Documentation
 
 ### Endpoints
 
@@ -181,7 +181,3 @@ Response: {
   "eta": "2023-06-15T14:30:00Z"
 }
 ```
-
-**🌱 Mission**: Empowering agricultural communities through intelligent logistics and fair pricing solutions.
-
-**🎯 Vision**: Creating a transparent, efficient, and sustainable agricultural supply chain ecosystem.
