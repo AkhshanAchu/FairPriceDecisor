@@ -102,7 +102,7 @@ FairPriceDecisor is an intelligent logistics optimization platform designed to r
 - **Fair Pricing**: Calculated fair prices considering transportation and market factors  
 - **Delivery Schedule**: Time-optimized delivery schedules
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 - **Cost Reduction**: Up to 35% reduction in transportation costs
 - **Route Efficiency**: 40% improvement in delivery route optimization
